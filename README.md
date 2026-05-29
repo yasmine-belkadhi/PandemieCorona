@@ -73,7 +73,7 @@ dim_pays — table_fait
 suivi-pandemie-corona/
 │
 ├── 📂 talend/
-│   └── job_talend.zip
+│   └── CORONA.zip
 │
 ├── 📂 database/
 │   └── schema.sql
