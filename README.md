@@ -74,12 +74,18 @@ suivi-pandemie-corona/
 │
 ├── 📂 talend/
 │   └── CORONA.zip
+    └── job_dimensions.png
+    └── job_fait.png
 │
 ├── 📂 database/
 │   └── schema.sql
+    └── dim_pays.png
+    └── dim_temps.png
+    └── fait_pandemie.png
 │
 ├── 📂 dashboard/
-│   └── covid_dashboard.pbix
+│   └── CORONA.pbix
+    └── dashboard.png
 │
 ├── 📂 data/
 │   └── sample_data.csv
