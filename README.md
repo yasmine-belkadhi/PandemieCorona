@@ -87,8 +87,6 @@ suivi-pandemie-corona/
 │   └── CORONA.pbix
     └── dashboard.png
 │
-├── 📂 data/
-│   └── sample_data.csv
-│
+├── 📄 corona_timeseries_monde.csv
 └── 📄 README.md
 ```
